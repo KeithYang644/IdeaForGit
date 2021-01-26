@@ -13,5 +13,6 @@ public class TestGit {
     public void test(){
         System.out.println("testGit...");
         System.out.println("test...");
+        System.out.println("test1...");
     }
 }
