@@ -12,5 +12,6 @@ public class TestGit {
     @Test
     public void test(){
         System.out.println("testGit...");
+        System.out.println("test...");
     }
 }
